@@ -1,0 +1,16 @@
+DLVW trace and R12 verification report
+======================================
+
+labelled traces: 98
+  upper-stem: 8
+  direct/direct: 9
+  side/side: 81
+reflection orbits: 55
+
+R12 infeasible max branches verified exactly: 15
+R12 forced exceptional equalities verified exactly: 8
+
+trace_table.csv sha256: 41c6dbb3ed529c021d18e40bd705bb620a59579d0273eb1fbf023031a2bd4099
+trace_table_full.tex sha256: e1bfe08462ce7c56f99787105c63ae04e9995302473a0cd167cb8bd0b2c89d33
+trace_table_orbits.tex sha256: 91425d58fc9b7bf14141a69951f52a5acb40d51038b9c98461ca171609b7915c
+certificate archive sha256: ec63ab80217b458be3c329056681215c38c9e8a8ff926f745f67f8d58e3b6471
